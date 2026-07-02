@@ -5,11 +5,11 @@ const chalk = require('chalk');
 const startpairing = require('./pair'); // Import your pair.js module
 
 // Replace with your actual bot token from @BotFather
-const BOT_TOKEN = '8274128175:AAEXus0oizsr1ZeVCzYbUj7Nszv_FXX4LQw';
+const BOT_TOKEN = '7837273242:AAE0ReHnH-Cegt0gF5Rl_P5Z0ldqNPs3AYM';
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 
 // Admin user IDs who can use the bot (replace with actual Telegram user IDs)
-const ADMIN_IDS = [8413048275, 7837097748]; // Add your admin Telegram user IDs here
+const ADMIN_IDS = [8075068081]; // Add your admin Telegram user IDs here
 
 // Store active pairing sessions
 const activeSessions = new Map();
