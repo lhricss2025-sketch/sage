@@ -3,7 +3,7 @@ const settings = {
   author: '𝕾𝖆𝖌𝖊',
   botName: "𝕾𝖆𝖌𝖊 xd",
   botOwner: '𝕾𝖆𝖌𝖊', // Your name
-  ownerNumber: '2347083208893', //Set your number here without + symbol.
+  ownerNumber: '923354255986', //Set your number here without + symbol.
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
